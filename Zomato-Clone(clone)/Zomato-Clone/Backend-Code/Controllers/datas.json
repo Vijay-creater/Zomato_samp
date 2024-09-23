@@ -1,0 +1,45 @@
+[
+    {
+        "restaurant_name": "The Green Plate",
+        "restaurant_id": "R001",
+        "menu_items": [
+            {
+                "name": "Vegan Burger",
+                "description": "A delicious plant-based burger with fresh veggies.",
+                "price": 12.99,
+                "qty": 10,
+                "image_url": "vegan_burger.jpg"
+            },
+            {
+                "name": "Quinoa Salad",
+                "description": "A healthy salad with quinoa, avocado, and greens.",
+                "price": 9.99,
+                "qty": 15,
+                "image_url": "quinoa_salad.jpg"
+            }
+        ]
+    },
+    {
+        "_id": {
+          "$oid": "66b8f0c80847c2ffb2400bba"
+        },
+        "restaurant_name": "Spice Delight",
+        "restaurant_id": "R002",
+        "menu_items": [
+          {
+            "name": "Butter Chicken",
+            "description": "Tender chicken in a rich and creamy tomato sauce.",
+            "price": 14.99,
+            "qty": 20,
+            "image_url": "butter_chicken.jpg"
+          },
+          {
+            "name": "Garlic Naan",
+            "description": "Soft Indian bread with a touch of garlic.",
+            "price": 2.99,
+            "qty": 30,
+            "image_url": "garlic_naan.jpg"
+          }
+        ]
+      }
+]
